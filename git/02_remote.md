@@ -90,5 +90,4 @@ $ git push origin master
 
 ### CVCS (중앙 버전 관리 시스템)
 
-- 한 곳 불나면 망
-
+- 한 곳 불나면 망함
