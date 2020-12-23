@@ -59,3 +59,36 @@ $ git remote add origin url
 $ git push origin master
 ```
 
+## Clone
+
+```bash
+$ git clone ___
+$ git add .
+$ git commit -m '__'
+```
+
+- 다른 장소에서도 이어서 작업 가능
+
+```bash
+$ git push origin master
+```
+
+- 같은 이름의 폴더 가지고 있으면 안된다.
+- 로컬 저장소의 폴더 생성됨. 아니면 로컬 저장소에 저장경로를 다르게 하든가
+
+ - Clone vs zip download 
+   - Clone - 이력까지. 
+   -  zip download - 최신파일만
+
+## DVCS, CVCS
+
+### DVCS (분산형 버전 관리 시스템)
+
+- 한 곳 불나도 다른 곳 안전. 이력 보존
+
+
+
+### CVCS (중앙 버전 관리 시스템)
+
+- 한 곳 불나면 망
+
